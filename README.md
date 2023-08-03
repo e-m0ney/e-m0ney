@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello! 👋
+My name is Eric and I'm currently a student at URI
 <!--
 **e-m0ney/e-m0ney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
